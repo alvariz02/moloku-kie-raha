@@ -1,0 +1,14 @@
+{
+  "soya": {
+    "page": "https://www.indonesia.travel/id/id/travel-ideas/culture/tari-soya-soya",
+    "image": "https://www.indonesia.travel/contentassets/12421e9f26b847f6a41f2b4e78641f9d/tari-soya-soya.jpeg"
+  },
+  "sasadu": {
+    "page": "https://www.indonesia.travel/id/id/travel-ideas/heritage/sasadu-traditional-house",
+    "image": "https://www.indonesia.travel/contentassets/8a8f3fe6a41f4532bef653bd016c229a/sasadu-traditional-house.jpg"
+  },
+  "maluku": {
+    "page": "https://www.indonesia.travel/id/id/destination/maluku-papua/north-maluku",
+    "image": "https://www.indonesia.travel/contentassets/1022a0900f62482c94899769bde62b92/north-maluku.webp"
+  }
+}
