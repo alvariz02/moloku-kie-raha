@@ -1,0 +1,207 @@
+{
+  "kabata": {
+    "error": "<urlopen error _ssl.c:983: The handshake operation timed out>",
+    "source": "https://infopublik.id/galeri/foto/7592"
+  },
+  "togal": {
+    "error": "The read operation timed out",
+    "source": "https://infopublik.id/galeri/foto/204154"
+  },
+  "bahasa-map": {
+    "source": "https://petabahasa.kemendikdasmen.go.id/provinsi.php?idp=Maluku+Utara",
+    "error": "<urlopen error timed out>"
+  },
+  "papeda": {
+    "source": "https://www.indonesia.travel/id/id/travel-ideas/gastronomy/papeda-ikan-kuah-kuning",
+    "image": "https://www.indonesia.travel/contentassets/efe0d6365db9438892c16c8d55df1cf8/papeda-ikan-kuah-kuning-v2.webp",
+    "candidates": [
+      "https://www.indonesia.travel/asset/icon/ai-chatbot-sparks.svg",
+      "https://www.indonesia.travel/asset/images/maia-salute.webp",
+      "https://www.indonesia.travel/asset/icon/speaker.svg",
+      "https://www.indonesia.travel/asset/icon/stop-icon.svg",
+      "https://www.indonesia.travel/asset/icon/ai-chatbot-sparks.svg",
+      "https://www.indonesia.travel/asset/images/maia-popup.png",
+      "https://www.indonesia.travel/contentassets/d49eb4d947464d91bd9e59de6b67c8be/visit-indonesia-white.png",
+      "https://www.indonesia.travel/contentassets/d49eb4d947464d91bd9e59de6b67c8be/logo-wonderful-putih.png",
+      "https://www.indonesia.travel/contentassets/d49eb4d947464d91bd9e59de6b67c8be/visit-indonesia-black.png",
+      "https://www.indonesia.travel/contentassets/d49eb4d947464d91bd9e59de6b67c8be/logo-wonderful-indonesia-warna.png",
+      "https://www.indonesia.travel/asset/flags/id.png",
+      "https://www.indonesia.travel/asset/flags/au.png",
+      "https://www.indonesia.travel/asset/flags/cn.png",
+      "https://www.indonesia.travel/asset/flags/fr.png",
+      "https://www.indonesia.travel/asset/flags/de.png",
+      "https://www.indonesia.travel/asset/flags/hk.png",
+      "https://www.indonesia.travel/asset/flags/in.png",
+      "https://www.indonesia.travel/asset/flags/id.png"
+    ]
+  },
+  "bagea": {
+    "source": "https://www.indonesia.travel/gb/en/travel-ideas/gastronomy/kue-bagea-sagu",
+    "image": "https://www.indonesia.travel/contentassets/dbbccf2fe66a4d78acde9929b552fbd4/kue-bagea-sagu.jpg",
+    "candidates": [
+      "https://www.indonesia.travel/asset/icon/ai-chatbot-sparks.svg",
+      "https://www.indonesia.travel/asset/images/maia-salute.webp",
+      "https://www.indonesia.travel/asset/icon/speaker.svg",
+      "https://www.indonesia.travel/asset/icon/stop-icon.svg",
+      "https://www.indonesia.travel/asset/icon/ai-chatbot-sparks.svg",
+      "https://www.indonesia.travel/asset/images/maia-popup.png",
+      "https://www.indonesia.travel/contentassets/d49eb4d947464d91bd9e59de6b67c8be/visit-indonesia-white.png",
+      "https://www.indonesia.travel/contentassets/d49eb4d947464d91bd9e59de6b67c8be/logo-wonderful-putih.png",
+      "https://www.indonesia.travel/contentassets/d49eb4d947464d91bd9e59de6b67c8be/visit-indonesia-black.png",
+      "https://www.indonesia.travel/contentassets/d49eb4d947464d91bd9e59de6b67c8be/logo-wonderful-indonesia-warna.png",
+      "https://www.indonesia.travel/asset/flags/au.png",
+      "https://www.indonesia.travel/asset/flags/cn.png",
+      "https://www.indonesia.travel/asset/flags/fr.png",
+      "https://www.indonesia.travel/asset/flags/de.png",
+      "https://www.indonesia.travel/asset/flags/hk.png",
+      "https://www.indonesia.travel/asset/flags/in.png",
+      "https://www.indonesia.travel/asset/flags/id.png",
+      "https://www.indonesia.travel/asset/flags/jp.png"
+    ]
+  },
+  "lapis-tidore": {
+    "error": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1000)>",
+    "source": "https://megapolitan.antaranews.com/berita/464429/kemenkum-sebut-kue-lapis-tidore-masuk-kekayaan-intelektual-dilindungi"
+  },
+  "legu-gam": {
+    "source": "https://www.indonesia.travel/id/id/news-update/legu-gam-festival-2016-on-ternate",
+    "image": "https://www.indonesia.travel/globalassets/logo-wi-bg.png",
+    "candidates": [
+      "https://www.indonesia.travel/asset/icon/ai-chatbot-sparks.svg",
+      "https://www.indonesia.travel/asset/images/maia-salute.webp",
+      "https://www.indonesia.travel/asset/icon/speaker.svg",
+      "https://www.indonesia.travel/asset/icon/stop-icon.svg",
+      "https://www.indonesia.travel/asset/icon/ai-chatbot-sparks.svg",
+      "https://www.indonesia.travel/asset/images/maia-popup.png",
+      "https://www.indonesia.travel/contentassets/d49eb4d947464d91bd9e59de6b67c8be/visit-indonesia-white.png",
+      "https://www.indonesia.travel/contentassets/d49eb4d947464d91bd9e59de6b67c8be/logo-wonderful-putih.png",
+      "https://www.indonesia.travel/contentassets/d49eb4d947464d91bd9e59de6b67c8be/visit-indonesia-black.png",
+      "https://www.indonesia.travel/contentassets/d49eb4d947464d91bd9e59de6b67c8be/logo-wonderful-indonesia-warna.png",
+      "https://www.indonesia.travel/asset/flags/id.png",
+      "https://www.indonesia.travel/asset/flags/au.png",
+      "https://www.indonesia.travel/asset/flags/cn.png",
+      "https://www.indonesia.travel/asset/flags/fr.png",
+      "https://www.indonesia.travel/asset/flags/de.png",
+      "https://www.indonesia.travel/asset/flags/hk.png",
+      "https://www.indonesia.travel/asset/flags/in.png",
+      "https://www.indonesia.travel/asset/flags/id.png"
+    ]
+  },
+  "manteren-lamo": {
+    "source": "https://www.indonesia.travel/id/id/travel-ideas/culture/manteren-lamo-maluku",
+    "image": "https://www.indonesia.travel/contentassets/36a067a32e684d99950ebdd46b83ed28/manteren-lamo-maluku-new.jpg",
+    "candidates": [
+      "https://www.indonesia.travel/asset/icon/ai-chatbot-sparks.svg",
+      "https://www.indonesia.travel/asset/images/maia-salute.webp",
+      "https://www.indonesia.travel/asset/icon/speaker.svg",
+      "https://www.indonesia.travel/asset/icon/stop-icon.svg",
+      "https://www.indonesia.travel/asset/icon/ai-chatbot-sparks.svg",
+      "https://www.indonesia.travel/asset/images/maia-popup.png",
+      "https://www.indonesia.travel/contentassets/d49eb4d947464d91bd9e59de6b67c8be/visit-indonesia-white.png",
+      "https://www.indonesia.travel/contentassets/d49eb4d947464d91bd9e59de6b67c8be/logo-wonderful-putih.png",
+      "https://www.indonesia.travel/contentassets/d49eb4d947464d91bd9e59de6b67c8be/visit-indonesia-black.png",
+      "https://www.indonesia.travel/contentassets/d49eb4d947464d91bd9e59de6b67c8be/logo-wonderful-indonesia-warna.png",
+      "https://www.indonesia.travel/asset/flags/id.png",
+      "https://www.indonesia.travel/asset/flags/au.png",
+      "https://www.indonesia.travel/asset/flags/cn.png",
+      "https://www.indonesia.travel/asset/flags/fr.png",
+      "https://www.indonesia.travel/asset/flags/de.png",
+      "https://www.indonesia.travel/asset/flags/hk.png",
+      "https://www.indonesia.travel/asset/flags/in.png",
+      "https://www.indonesia.travel/asset/flags/id.png"
+    ]
+  },
+  "sagu-kasbi": {
+    "source": "https://annienugraha.com/sagu-singkong-roti-ala-tidore/",
+    "image": "https://annienugraha.com/wp-content/uploads/2017/01/Sagu-Singkong-07-1024x768.jpg",
+    "candidates": [
+      "https://annienugraha.com/wp-content/uploads/2026/10/BLOG-Header-2.png",
+      "https://annienugraha.com/wp-content/uploads/2017/01/Sagu-Singkong-07.jpg",
+      "http://annienugraha.com/wp-content/uploads/2017/01/Sagu-Singkong-11.jpg",
+      "http://annienugraha.com/wp-content/uploads/2017/01/Sagu-Balok.jpg",
+      "http://annienugraha.com/wp-content/uploads/2017/01/Sagu-sagu-.jpg",
+      "http://annienugraha.com/wp-content/uploads/2017/01/Sagu-Singkong-13.jpg",
+      "http://annienugraha.com/wp-content/uploads/2017/01/Sagu-Singkong-12.jpg",
+      "http://annienugraha.com/wp-content/uploads/2017/01/Sagu-Singkong-08.jpg",
+      "http://annienugraha.com/wp-content/uploads/2017/01/Sagu-Singkong-01-1.jpg",
+      "http://annienugraha.com/wp-content/uploads/2017/01/Sagu-Singkong-04.jpg",
+      "http://annienugraha.com/wp-content/uploads/2017/01/Sagu-Singkong-09.jpg",
+      "https://annienugraha.com/wp-content/uploads/2022/12/Signature-for-Blog--300x70.png",
+      "https://annienugraha.com/wp-content/uploads/2026/10/REVEN-1-150x150.png",
+      "https://annienugraha.com/wp-content/uploads/2026/10/MM-SIDIK-2-150x150.png",
+      "https://annienugraha.com/wp-content/uploads/2026/10/ORO-ORO-DOWO-1-150x150.png",
+      "https://annienugraha.com/wp-content/uploads/2026/09/APSARA-1-150x150.png",
+      "https://annienugraha.com/wp-content/uploads/2021/02/annie-media-tama-bw-1020x1024.jpeg",
+      "https://annienugraha.com/wp-content/uploads/2021/02/PAPI-1024x585.jpeg",
+      "https://annienugraha.com/wp-content/uploads/2021/02/handmade-jewelry-1024x288.jpeg",
+      "https://scontent-sin6-3.cdninstagram.com/v/t51.82787-19/871062983_18636531112013766_4767913789285637221_n.jpg?stp=dst-jpg_s206x206_tt6&amp;_nc_cat=110&amp;ccb=7-5&amp;_nc_sid=bf7eb4&amp;efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&amp;_nc_ohc=4VCYQKl8mlsQ7kNvwF4fw3L&amp;_nc_oc=AdoRbg4E1ifhL6iiE5xYibfVBzSd40eWJ48vKVONRTHDzzE4BGDZmB5rwoyVbsXeFYF8AFR_PgNdNl522vF-sXfl&amp;_nc_zt=24&amp;_nc_ht=scontent-sin6-3.cdninstagram.com&amp;edm=AP4hL3IEAAAA&amp;_nc_gid=naXLVVvUcr-43JzZMVBYcQ&amp;_nc_tpa=Q5bMBQIsZ8FtCLB77VklPmV7LEjWRC1ftHOx0uinhiz4sE7X66XcXuf8GFBRvwmLktM6Ry_SxAbS0hPoBg&amp;oh=00_AQT11eTMElM_vbNUBGChE12IMFrj6PWA62ANsBbuhL3vvA&amp;oe=6AE92751",
+      "https://annienugraha.com/wp-content/plugins/instagram-feed/img/placeholder.png",
+      "https://annienugraha.com/wp-content/plugins/instagram-feed/img/placeholder.png",
+      "https://annienugraha.com/wp-content/plugins/instagram-feed/img/placeholder.png",
+      "https://annienugraha.com/wp-content/plugins/instagram-feed/img/placeholder.png",
+      "https://annienugraha.com/wp-content/plugins/instagram-feed/img/placeholder.png",
+      "https://annienugraha.com/wp-content/plugins/instagram-feed/img/placeholder.png",
+      "https://annienugraha.com/wp-content/uploads/2025/02/annie-nugraha-pp.jpeg"
+    ]
+  },
+  "halua-kenari": {
+    "source": "https://saloi.id/2025/07/12/menengok-sentra-usaha-halua-kenari-desa-suma-halmahera-selatan/",
+    "image": "https://saloi.id/wp-content/uploads/2025/07/haluakenari.jpg",
+    "candidates": [
+      "https://saloi.id/wp-content/uploads/2025/04/cropped-Pub_Medsos-1.png",
+      "https://saloi.id/wp-content/uploads/2026/04/high-light.gif",
+      "https://saloi.id/wp-content/uploads/2025/07/haluakenari.jpg",
+      "https://secure.gravatar.com/avatar/3ea767d9d583c74a66d0f7a524800c32ad54d9d8b1f224f880496d52bd0b8d89?s=30&#038;r=g",
+      "https://pbs.twimg.com/media/GvoPv1JXYAAOvKP?format=png&name=900x900",
+      "https://secure.gravatar.com/avatar/3ea767d9d583c74a66d0f7a524800c32ad54d9d8b1f224f880496d52bd0b8d89?s=75&#038;r=g",
+      "https://landings-cdn.adsterratech.com/referralBanners/gif/720x90_adsterra_reff.gif",
+      "https://saloi.id/wp-content/uploads/2026/04/Desain-Elegan-Banyak-Varian.gif",
+      "https://pbs.twimg.com/media/GoF7DoxboAE2mCE?format=jpg&name=large"
+    ]
+  },
+  "festival-teluk-jailolo": {
+    "error": "<urlopen error _ssl.c:983: The handshake operation timed out>",
+    "source": "https://biroadpim.malutprov.go.id/melihat-khazanah-budaya-moloku-kie-raha-lewat-festival-teluk-jailolo-2026"
+  },
+  "kasbi-komplet": {
+    "source": "https://www.travelerien.com/2017/06/nikmati-kuliner-khas-tidore-ini-di-safira-beach-restaurant.html?m=0",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEileimLYLgXovTyoCJ-l8q6ZNZ3w7oHeSD8efpupClcs0lINWXb838zEsX-CTp7Oxl4IHNCrjaM8bMfh51GQjmAk1Fl7MP-JKm1QJkrNSvuv7xEmJV44H5_dDNms3ITwZZYcnNKCjuEkf1x/s640/Katerina+Travelerien+Restoran+Safira+Kuliner+Tidore+%252823%2529.JPG",
+    "candidates": [
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEileimLYLgXovTyoCJ-l8q6ZNZ3w7oHeSD8efpupClcs0lINWXb838zEsX-CTp7Oxl4IHNCrjaM8bMfh51GQjmAk1Fl7MP-JKm1QJkrNSvuv7xEmJV44H5_dDNms3ITwZZYcnNKCjuEkf1x/s640/Katerina+Travelerien+Restoran+Safira+Kuliner+Tidore+%252823%2529.JPG",
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgZA4GYAJuhyphenhyphenWVtfl0326ry8mfDHqbH03DIZaSFa0G-vTysmI2vBMYDK8E1B75ZxD9e-M2zyOyDCA2wC6UTukhZfDHBSWFxjXESYv9rUdH0yX7RQYzYNHrQmn4xkHNMJykbPRuReZiA6ec/s640/Katerina+Travelerien+Restoran+Safira+Kuliner+Tidore+%252840%2529.JPG",
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhVXlO1reWmnSgPght3Nu1X_58RD2JCJmjFtDzuxBHAuIjYAJp5VGS0ceG-cvZA73qAzvyq2KNM702w5pd1U1fLM1me9vR4CockyoN-OVlvLXHb601pUL2Y4ZdbgO7ICcHuITyH1C1fxbY/s640/Katerina+Travelerien+Restoran+Safira+Kuliner+Tidore+%25282%2529.JPG",
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgvVpc3139zTSY5MNVysqyYDaUJitQhh_omo8V4ANkcITPtoSyF4K1yxoT42YO6JPy-gR19dLBuafhdPjKidwG8ibp7uxubVyUESFmspS_uOF_-BvAJ6F58pllJgFy8VcBAVLZ7M90-AMk/s640/Katerina+Travelerien+Restoran+Safira+Kuliner+Tidore+%252810%2529.JPG",
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhyF_GV-e10dHKDVrZVILAwDb3UULI5traywQF7EYFHER3-XBPxZ0PE3aILpw_t5cWRYOO9cl8K1A7SBgtvaYrflDidsFKpcSshwpr56ILNgiPOOB1SSTtWTY0fA8kSNhGSF3WdPVleMYI/s640/Katerina+Travelerien+Restoran+Safira+Kuliner+Tidore+%25288%2529.JPG",
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEil86fxIvkD7f0YCxlHZYZOugBd0oljs0FPMr0VU2X6AgZRrL7V_-7OwhrZF0vMjvC_dtv8BPt5sZDC5D3PrnJ_Qp1h-xhyphenhyphenBMN3iiQUOMFsHrOm1i3X4bVYuRmTRbR-RMVFW33Njhiz76o/s640/Katerina+Travelerien+Restoran+Safira+Kuliner+Tidore+%252839%2529.JPG",
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgSg62strZWbNp40XnWIOLbixqf9waQZ169TvSzW77SoztpMsj5AUXCHwlbL744QRfHXtM8fCs6vd4GsrtRCYbE3zAOotsl1PSerhy3xLrOOUNHsCnURLojo32jOds8vyUhaHRymtH3ZsI/s640/Sagu-Singkong-07-696x522.jpg",
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhZviHcTe7bIm7h8bjIzIt4qQLsXkXCW3iqeKj8WhoaERSKzF1q-b5quBCacebTtNV4sf6O0KwTY1kTvphVMR1gb0H8JxEZFhscP-p1fs8eRP0pT0CzxYTUirKjIRqKIGYxdEa-KRaHF3s/s640/Katerina+Travelerien+Restoran+Safira+Kuliner+Tidore+%252826%2529.JPG",
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiKg8pkSg8JHdAR7a3x7w-o89wYnBP7nKvbhEDEEBQKkWejgpb8PpMADoO6D5PfY0o-htD733Xc9p5XytfFaP5wEI6VLgz2IhawCMwyVElWMXttF9uv1Tv3Ant6wy29wjQsp3nyJzMOM8A/s640/Katerina+Travelerien+Restoran+Safira+Kuliner+Tidore+%252814%2529.JPG",
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjGTpbHNLaej0D7nRPaCY2F42o6CD7D4ZG3ZIb7exntvwnQDW_2P3v5mpz8XvQpq1TSvfdnEIufBc9Qsw6zRLYYILUkSMiq91LiGHvhseeX7M_lwpytl3xavHcVfzjKPXoAEIgJCSSA_ZM/s640/Katerina+Travelerien+Restoran+Safira+Kuliner+Tidore+%252817%2529.JPG",
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjgIDBkmAAxAPkJ_fgPvqsUln77JB1g3DSOwfdYs-NCa1O4IR3sL0EZ5OvQTMBv-I8inxdeEbVStPPEginVILMl1RR82FYowE0ii1Tiif35I2uOkPOeXQ3Ii3cUUkd0HN-KM4Hf8BOQOSw/s640/Katerina+Travelerien+Restoran+Safira+Kuliner+Tidore+%252825%2529.JPG",
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhIPkw_DwdTyomOUN8TGUUy1xk_ndfSvIbuABOx9-VhwO7mJ-cs3mOoY9CsNtvJqTQPji-DKjB1FDctXKbnSn5NMVTGSkucXrR4q6y_ys_n2mfTSk9MKtpXHcA2vpD5xwsrsyCiJePnpJY/s640/Katerina+Travelerien+Restoran+Safira+Kuliner+Tidore+%252844%2529.jpg",
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh5nKOSFhAbDfJKDk8j5nMd26y6_kzZxKrbVYdLcmOxMaDcMGvA9m5RM-eWk9DImikhLu19Zhh_EQ1llQSH18iv1p9tgM2Yh1QYCOcSmunTcxBKWRlcz200OpwXR9N6Dmu4Npjn4p4wa20/s640/Katerina+Travelerien+Restoran+Safira+Kuliner+Tidore+%252845%2529.jpg",
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhAnRfMjrMz-N49mivfJJ1fpeJSSgCNyeI94vTmP5CY1B0CB0MNpvpdSX4DnhjcxtVwsUDs-vTq3pFzxy_JflPvDFUYp_wOW0J0atanNZ5mX5o0ICrh6DAmOhiCsS7JQh0xjOv5_-UFX-g/s640/Katerina+Travelerien+Restoran+Safira+Kuliner+Tidore+%252848%2529.jpg",
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhfGc3PsKGNxKxQHXhYmTqzciVdLAO_sPrM4Rc0qnsb88P_yb1mRdNhByJ4VWfWwurNaBcHopaosP-mOoXl5-Al6092xYb943heo3B7IEHuw0I6ELupeQSYF-tPxdhlEgKG2GCLMAznGmg/s640/Katerina+Travelerien+Restoran+Safira+Kuliner+Tidore+%252832%2529.JPG",
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiROK19vvguom7P25ilLMaTdcwMqgNuyml6RYiXAT4N4CZMJFRIaXyqs2ahqITC957sVcYV2wClXhugbb8HcmIer6fnYL1lh5fGmKXXcnpBG4JIKaZis1Yy0CX2aG-e44Qv-70ydNzGpPs/s640/Katerina+Travelerien+Restoran+Safira+Kuliner+Tidore+%252829%2529.JPG",
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgq1aEQOvxgtkKvis5enmg33QZRNqpG8_opR1AMpQa4m4WOrAyiwG_B4XZQFoTgjLKrY_tN5cDSHAtf0D6Iwy6ErQvZ1nuV4CGAVSAamsq6_bdinlBWsnSXKqq8OX7LKaalUSIutD13nSA/s640/Katerina+Travelerien+Restoran+Safira+Kuliner+Tidore+%252860%2529.jpg",
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjRAUuoY0MCOLSa-K7PUqnwojMWdfkWtbn3Z-vqtQoa88gHje3dJD1J5WD-seaVeXsd6D5ECAXfpavryZL48P7Ne4M5kScnPQagGsLE5W_ZxEG704WpP__0-nYhc1RqGqnBRl7Z6C6ARr4/s640/Katerina+Travelerien+Restoran+Safira+Kuliner+Tidore+%252865%2529.jpg",
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiyHlm41PkWiNu2BOC782oQnQ3Tb_2FqCfZ1fUplMEd2WX3g9oY_VA7sjTW0S9JjQh3k8V2c_MIAK-57g5vQMK0zm9Dk7JxeiGYOatBTfRA6t6FKn6e6NLdm8W6TI5BzOyZEFfUyt-PRIc/s640/Katerina+Travelerien+Restoran+Safira+Kuliner+Tidore+%252830%2529.JPG",
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjtAbsoIMdyy044nFDBMq9b4Pokai4BkuXYaAvCK8HicUsd6nyghyphenhyphenJ0eqVsCnm0PTUdu3QnGDoGZll1CRJcEedLzAFrCYwPurS_CyzTsCk2HSIODhxw6RmIN518KmvGww29oidAVXGAZMM/s640/Katerina+Travelerien+Restoran+Safira+Kuliner+Tidore+%252831%2529.JPG",
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi4Hh4Dsi5UuUk8nUogQUvMiFeEfxYK-kiiblS4KkF8UzaVPaF5bv7s7nQhfVO4imY90jia3ynnj9u404IELfRf9KpIGNDk4l8ybyY8f2FAcN8K3DRTd_rrE_nYRx4AHyPYTQcRsvNk9yk/s640/Katerina+Travelerien+Restoran+Safira+Kuliner+Tidore+%252854%2529.jpg",
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhfx8YRiGJUQPpvSMadYZdBRxnIvEIumTjnbjh6gNT6H0mTgtBGrcH2rt4Iq4rXelT0_-xn3JsLJZhzVVRWMe7nWRdDEoS0I9hWKa0lOJ8jyfCII_Xf7Uv1y9KF9_-zqSPxVleGEFA5pVU/s640/Katerina+Travelerien+Restoran+Safira+Kuliner+Tidore+%252853%2529.jpg",
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiOkv8wpwuGGgnI_gsEgCxoafk0fjNFvqq3SeQXq-ZeD748c4uw2PGPFK-vYaSZpM6MqYh_Mpk91MepHESbJ2b2XWMgjN5xKPjjNyJFoq9Xa-dufcUBroPkoY5J5lz6bxemRJvUwqcHqDE/s640/LOGO-Ngofa-Tidore.jpeg",
+      "//blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgZi1CnB6_jBAyw-GZPAyU77c4tFC-fF2EVSFfPxMC6pPAIt0XuZudeDhKaosa5eQd7STlCajLM-rl8jPHWdiPEOnUVge6hIisAa-rTkoBlfwnD3O8EwRllTspv0gWUEt4B42OFybqi2WL754aZDaDJ3cwr4vS7K2csl12utDVaj41GdQ/s1600/ChatGPT%20Image%20Apr%2025,%202026,%2006_16_23%20PM%20-%20Copy.png",
+      "//blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEieOd437SXruHZXRgdMoMUUew9ho6VeCgd8MW7QWsbF3vQXHIoEUvmF9nwm0d49XUdhFo-71vPtAqDsT-XZHijv_-KLh0Gho0VdXlI6wC2I-65Z0DBwfY711Okqzl_0qv0/s45-c/RF+23_2.jpeg",
+      "//blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgZi1CnB6_jBAyw-GZPAyU77c4tFC-fF2EVSFfPxMC6pPAIt0XuZudeDhKaosa5eQd7STlCajLM-rl8jPHWdiPEOnUVge6hIisAa-rTkoBlfwnD3O8EwRllTspv0gWUEt4B42OFybqi2WL754aZDaDJ3cwr4vS7K2csl12utDVaj41GdQ/s45/ChatGPT%20Image%20Apr%2025,%202026,%2006_16_23%20PM%20-%20Copy.png",
+      "//blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgkcvn0r6DGhCKyRXaHVn6bFFuiZUEm3GYeMzT10hjKVmaBlsOBDfGVNSjVHhrd4mmqo6rucoYmGpYkeyVWL7lVBcA0CDXc2n1XN-1Esw0mfoUEbf3eRixD8zSSljdyxA/s45-c/Kartu+pos.jpg",
+      "//blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgZi1CnB6_jBAyw-GZPAyU77c4tFC-fF2EVSFfPxMC6pPAIt0XuZudeDhKaosa5eQd7STlCajLM-rl8jPHWdiPEOnUVge6hIisAa-rTkoBlfwnD3O8EwRllTspv0gWUEt4B42OFybqi2WL754aZDaDJ3cwr4vS7K2csl12utDVaj41GdQ/s45/ChatGPT%20Image%20Apr%2025,%202026,%2006_16_23%20PM%20-%20Copy.png",
+      "//resources.blogblog.com/img/blank.gif",
+      "//blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgZi1CnB6_jBAyw-GZPAyU77c4tFC-fF2EVSFfPxMC6pPAIt0XuZudeDhKaosa5eQd7STlCajLM-rl8jPHWdiPEOnUVge6hIisAa-rTkoBlfwnD3O8EwRllTspv0gWUEt4B42OFybqi2WL754aZDaDJ3cwr4vS7K2csl12utDVaj41GdQ/s45/ChatGPT%20Image%20Apr%2025,%202026,%2006_16_23%20PM%20-%20Copy.png",
+      "//resources.blogblog.com/img/blank.gif",
+      "//blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgZi1CnB6_jBAyw-GZPAyU77c4tFC-fF2EVSFfPxMC6pPAIt0XuZudeDhKaosa5eQd7STlCajLM-rl8jPHWdiPEOnUVge6hIisAa-rTkoBlfwnD3O8EwRllTspv0gWUEt4B42OFybqi2WL754aZDaDJ3cwr4vS7K2csl12utDVaj41GdQ/s45/ChatGPT%20Image%20Apr%2025,%202026,%2006_16_23%20PM%20-%20Copy.png",
+      "//resources.blogblog.com/img/blank.gif",
+      "//blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgZi1CnB6_jBAyw-GZPAyU77c4tFC-fF2EVSFfPxMC6pPAIt0XuZudeDhKaosa5eQd7STlCajLM-rl8jPHWdiPEOnUVge6hIisAa-rTkoBlfwnD3O8EwRllTspv0gWUEt4B42OFybqi2WL754aZDaDJ3cwr4vS7K2csl12utDVaj41GdQ/s45/ChatGPT%20Image%20Apr%2025,%202026,%2006_16_23%20PM%20-%20Copy.png",
+      "//resources.blogblog.com/img/blank.gif"
+    ]
+  }
+}

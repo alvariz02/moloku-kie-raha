@@ -1,0 +1,106 @@
+{
+  "kedaton-ternate": {
+    "error": "HTTP Error 404: Not Found",
+    "page": "https://www.indonesia.travel/id/id/travel-ideas/heritage/kedaton-sultan-ternate"
+  },
+  "gohu-ikan": {
+    "error": "HTTP Error 404: Not Found",
+    "page": "https://www.indonesia.travel/id/id/travel-ideas/culinary/gohu-ikan"
+  },
+  "hibualamo": {
+    "error": "HTTP Error 403: Forbidden",
+    "page": "https://kikomunal-indonesia.dgip.go.id/home/explore/traditional/31498"
+  },
+  "coka-iba": {
+    "page": "https://infopublik.id/galeri/foto/212844",
+    "credit": "G. Juna / MC Tidore / InfoPublik",
+    "image": "https://infopublik.id/storage/album/seni-budaya/23102026_193203_compressed.jpeg",
+    "candidates": [
+      "https://infopublik.id/vuexy/portal/assets/images/logo_HR.png",
+      "https://infopublik.id/images/default-image.png",
+      "https://infopublik.id/images/default-image.png",
+      "https://infopublik.id/images/default-image.png",
+      "https://infopublik.id/images/default-image.png",
+      "https://infopublik.id/images/default-image.png",
+      "https://infopublik.id/images/default-image.png",
+      "https://infopublik.id/images/default-image.png",
+      "https://infopublik.id/images/default-image.png",
+      "https://infopublik.id/images/default-image.png",
+      "https://infopublik.id/images/default-image.png",
+      "https://infopublik.id/images/default-image.png",
+      "https://infopublik.id/images/default-image.png",
+      "https://infopublik.id/images/default-image.png",
+      "https://infopublik.id/images/default-image.png",
+      "https://infopublik.id/images/default-image.png",
+      "https://infopublik.id/images/default-image.png",
+      "https://infopublik.id/images/default-image.png",
+      "https://infopublik.id/images/default-image.png",
+      "https://infopublik.id/images/default-image.png",
+      "https://infopublik.id/vuexy/portal/assets/images/logo_HR.png",
+      "https://infopublik.id/vuexy/portal/assets/images/badge_PSE_Infopublik.jpeg",
+      "https://infopublik.id/storage/multi-banner/20261021_101222_sticky.jpeg"
+    ]
+  },
+  "kololi-kie": {
+    "page": "https://ternatekota.go.id/berita/ritual-kololi-kie-awali-peringatan-hari-jadi-ternate-ke-775-tahun-2025",
+    "credit": "Pemerintah Kota Ternate",
+    "image": "https://ternatekota.go.id/images/news/2025/12/preview_1766751828_6620821.webp",
+    "candidates": [
+      "https://ternatekota.go.id/assets/images/logo/logo_light.png",
+      "https://ternatekota.go.id/images/news/2025/12/preview_1766751828_6620821.webp",
+      "https://ternatekota.go.id/images/news/2026/10/preview_1793073759_8430641.webp",
+      "https://ternatekota.go.id/images/news/2026/10/preview_1793024221_1566515.webp",
+      "https://ternatekota.go.id/images/news/2026/10/preview_1792906015_1136450.webp",
+      "https://ternatekota.go.id/images/news/2026/10/preview_1792905903_8210916.webp",
+      "https://ternatekota.go.id/assets/images/logo/logo.png"
+    ]
+  },
+  "musik-bambu-tada": {
+    "page": "https://iwip.co.id/bambu-tada-tetap-hidup/",
+    "credit": "PT IWIP",
+    "image": "https://iwip.co.id/wp-content/uploads/2025/11/DSC03178-scaled.jpg",
+    "candidates": [
+      "https://iwip.co.id/wp-content/uploads/2021/04/iwip-logo-2.png",
+      "https://iwip.co.id/wp-content/uploads/2021/04/iwip-logo-2.png",
+      "https://iwip.co.id/wp-content/uploads/2025/11/DSC03178-1440x580.jpg",
+      "https://iwip.co.id/wp-content/uploads/2025/11/DSC03178-768x512.jpg",
+      "https://iwip.co.id/wp-content/uploads/2025/11/DSC03167-768x512.jpg",
+      "https://iwip.co.id/wp-content/uploads/2025/11/DSC03093-768x512.jpg",
+      "https://iwip.co.id/wp-content/uploads/2025/11/DSC03186-768x512.jpg",
+      "https://iwip.co.id/wp-content/uploads/2025/11/DSC03155-768x512.jpg",
+      "https://iwip.co.id/wp-content/uploads/2025/11/DSC03171-768x512.jpg",
+      "https://iwip.co.id/wp-content/uploads/2025/11/DSC03170-768x512.jpg",
+      "https://iwip.co.id/wp-content/uploads/2025/11/DSC03107-768x512.jpg",
+      "https://iwip.co.id/wp-content/uploads/2025/11/DSC03183-768x512.jpg",
+      "https://iwip.co.id/wp-content/uploads/2025/11/DSC03117-1-768x512.jpg"
+    ]
+  },
+  "batik-tubo": {
+    "page": "https://www.iwarebatik.org/tubo-kelapa-eng/",
+    "credit": "iWareBatik",
+    "image": "",
+    "candidates": [
+      "https://www.iwarebatik.org/wp-content/uploads/2019/11/iWareBatik.v1.png",
+      "https://www.iwarebatik.org/wp-content/plugins/sitepress-multilingual-cms/res/flags/en.png",
+      "https://www.iwarebatik.org/wp-content/plugins/sitepress-multilingual-cms/res/flags/id.png",
+      "https://www.iwarebatik.org/wp-content/uploads/2020/01/3-3.png",
+      "https://www.iwarebatik.org/wp-content/uploads/2020/01/benteng-kalamata-ternate_20180316_075001.jpg",
+      "https://www.iwarebatik.org/wp-content/uploads/2020/01/melukis-ternate.jpg",
+      "https://www.iwarebatik.org/wp-content/uploads/2020/01/Maluku-Utara.png",
+      "https://www.iwarebatik.org/wp-content/uploads/2020/01/1-2.png",
+      "https://www.iwarebatik.org/wp-content/uploads/2021/07/1a.png",
+      "https://www.iwarebatik.org/wp-content/uploads/2020/10/USI-UNESCO-UNITWIN-1.png",
+      "https://www.iwarebatik.org/wp-content/uploads/2020/08/press-logo-statico-usi-orizzontale-web.png",
+      "https://www.iwarebatik.org/wp-content/uploads/2020/04/Sobat.png",
+      "https://www.iwarebatik.org/wp-content/uploads/2020/08/logo-lpdp-png-3-1.png"
+    ]
+  },
+  "bambu-gila": {
+    "error": "<urlopen error [Errno 11001] getaddrinfo failed>",
+    "page": "https://referensi.data.kemdikbud.go.id/budayakita/wbtb/objek/AA000224"
+  },
+  "tide-tide": {
+    "error": "<urlopen error [Errno 11001] getaddrinfo failed>",
+    "page": "https://referensi.data.kemdikbud.go.id/budayakita/wbtb/objek/AA000182"
+  }
+}

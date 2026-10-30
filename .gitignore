@@ -1,0 +1,9 @@
+node_modules/
+.next/
+out/
+*.log
+scripts/pdf-lib/
+scripts/*.pdf
+scripts/*candidate-*.jpg
+scripts/*commons.html
+scripts/research-*.html

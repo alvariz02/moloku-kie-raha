@@ -1,0 +1,2 @@
+import Link from 'next/link';
+export default function Card({item}){return <Link className="collection-card" href={`/budaya/${item.id}`}>{item.image?<img className={item.image.kind==='map'?'map-image':undefined} src={item.image.src} loading="lazy" alt={item.image.alt}/>:<div className="type-art" data-type={item.category} aria-hidden="true">{item.title}</div>}<div><small>{item.place} / {item.category}</small><h3>{item.title}</h3><p>{item.summary}</p><span className="open">BACA CERITA · {item.minutes} MENIT ↗</span></div></Link>}

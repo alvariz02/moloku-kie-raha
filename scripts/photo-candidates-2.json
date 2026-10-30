@@ -1,0 +1,89 @@
+{
+  "arababu": {
+    "error": "HTTP Error 404: Not Found",
+    "page": "https://infopublik.id/galeri/foto/detail/204960"
+  },
+  "kedaton-ternate": {
+    "page": "https://commons.wikimedia.org/wiki/File:Bagian_depan_Kedaton_Ternate.jpg",
+    "credit": "Wikimedia Commons",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a3/Bagian_depan_Kedaton_Ternate.jpg/1280px-Bagian_depan_Kedaton_Ternate.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail",
+    "candidates": [
+      "/static/images/icons/commonswiki.svg",
+      "/static/images/mobile/copyright/commonswiki-wordmark.svg",
+      "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a3/Bagian_depan_Kedaton_Ternate.jpg/960px-Bagian_depan_Kedaton_Ternate.jpg?utm_source=commons.wikimedia.org&amp;utm_campaign=index&amp;utm_content=thumbnail&amp;_=20260925093219",
+      "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/CC_some_rights_reserved.svg/120px-CC_some_rights_reserved.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail",
+      "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/Cc-by_new_white.svg/40px-Cc-by_new_white.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail",
+      "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a3/Bagian_depan_Kedaton_Ternate.jpg/120px-Bagian_depan_Kedaton_Ternate.jpg?utm_source=commons.wikimedia.org&amp;utm_campaign=index&amp;utm_content=thumbnail&amp;_=20260925093219",
+      "https://commons.wikimedia.org/wiki/Special:CentralAutoLogin/start?useformat=desktop&amp;type=1x1&amp;usesul3=1",
+      "/static/images/footer/wikimedia.svg",
+      "/w/resources/assets/mediawiki_compact.svg"
+    ]
+  },
+  "gohu-ikan": {
+    "error": "HTTP Error 404: Not Found",
+    "page": "https://www.indonesia.travel/id/id/travel-ideas/food/gohu-ikan"
+  },
+  "tide-tide": {
+    "page": "https://www.wonderful.pulaumorotaikab.go.id/budaya/tarian-tide-tide",
+    "credit": "Dinas Pariwisata Pulau Morotai",
+    "image": "https://wonderful.pulaumorotaikab.go.id/gambar/budaya/budaya-tarian-tide-tide-1.jpg",
+    "candidates": [
+      "/template/dispar//images/img.logo.png",
+      "https://wonderful.pulaumorotaikab.go.id/gambar/budaya/budaya-tarian-tide-tide-1-l.jpg",
+      "https://maps.googleapis.com/maps/api/staticmap?key=AIzaSyC1G2qPJ8hAMmQ5TFYv5zxj1Ne_OtQ8qII&center=&zoom=12&size=400x250&markers=color:red%7Clabel:W%7C",
+      "/template/dispar/images/img.logo.footer.png"
+    ]
+  },
+  "hibualamo": {
+    "page": "https://web.halmaherautarakab.go.id/publikasi/562-festival-pijar-hibualmo-2024-resmi-dibuka-bupati-halmahera-utara",
+    "credit": "Pemerintah Kabupaten Halmahera Utara",
+    "image": "https://web.halmaherautarakab.go.id/component/media/upload-gambar-artikel-thumbs/1000019130.jpg",
+    "candidates": [
+      "https://web.halmaherautarakab.go.id/theme/kab_halut/assets/img/core-img/placeholder.png",
+      "https://web.halmaherautarakab.go.id/theme/kab_halut/assets/img/core-img/message.png",
+      "https://web.halmaherautarakab.go.id/theme/kab_halut/assets/img/core-img/logo.png",
+      "https://web.halmaherautarakab.go.id/component/media/upload-gambar-artikel/1000019130.jpg",
+      "https://web.halmaherautarakab.go.id/theme/kab_halut/assets/img/core-img/pencil.png",
+      "https://web.halmaherautarakab.go.id/theme/kab_halut/assets/img/core-img/calendar.png",
+      "https://web.halmaherautarakab.go.id/component/media/upload-gambar-artikel-thumbs/239973.jpg",
+      "https://web.halmaherautarakab.go.id/theme/kab_halut/assets/img/core-img/pencil.png",
+      "https://web.halmaherautarakab.go.id/theme/kab_halut/assets/img/core-img/calendar.png",
+      "https://web.halmaherautarakab.go.id/component/media/upload-gambar-artikel-thumbs/239882.jpg",
+      "https://web.halmaherautarakab.go.id/theme/kab_halut/assets/img/core-img/pencil.png",
+      "https://web.halmaherautarakab.go.id/theme/kab_halut/assets/img/core-img/calendar.png",
+      "https://web.halmaherautarakab.go.id/component/media/upload-gambar-artikel-thumbs/239729.jpg",
+      "https://web.halmaherautarakab.go.id/theme/kab_halut/assets/img/core-img/pencil.png",
+      "https://web.halmaherautarakab.go.id/theme/kab_halut/assets/img/core-img/calendar.png",
+      "https://web.halmaherautarakab.go.id/component/media/upload-gambar-artikel-thumbs/d9a2b3b96d5b5f2218a6b0e43eec8709.jpg",
+      "https://web.halmaherautarakab.go.id/theme/kab_halut/assets/img/core-img/pencil.png",
+      "https://web.halmaherautarakab.go.id/theme/kab_halut/assets/img/core-img/calendar.png",
+      "https://web.halmaherautarakab.go.id/component/media/upload-gambar-artikel-thumbs/WhatsApp_Image_2023-06-06_at_17_43_42.jpeg",
+      "https://web.halmaherautarakab.go.id/theme/kab_halut/assets/img/core-img/pencil.png",
+      "https://web.halmaherautarakab.go.id/theme/kab_halut/assets/img/core-img/calendar.png",
+      "https://web.halmaherautarakab.go.id/component/media/upload-gambar-artikel-thumbs/WhatsApp_Image_2023-06-13_at_19_58_59.jpeg",
+      "https://web.halmaherautarakab.go.id/theme/kab_halut/assets/img/core-img/pencil.png",
+      "https://web.halmaherautarakab.go.id/theme/kab_halut/assets/img/core-img/calendar.png",
+      "https://web.halmaherautarakab.go.id/component/media/upload-galeri-thumbs/1.jpg"
+    ]
+  },
+  "gerabah-mare": {
+    "page": "https://ciptamedia.gitlab.io/hibahcme/248",
+    "credit": "Arlinah Madjid / Cipta Media",
+    "image": "http://www.ciptamedia.org/static/img/landing/bg_3.jpg",
+    "candidates": [
+      "/static/img/landing/logo-ekspresi-typo-w.png",
+      "/static/img/logo/cms.jpg",
+      "/static/img/logo/cmb.png",
+      "/static/img/header/cme.png",
+      "http://5c4cf848f6454dc02ec8-c49fe7e7355d384845270f4a7a0a7aa1.r53.cf2.rackcdn.com/739e4179-ca0d-46ab-b139-667decd616e1/poto.jpg",
+      "/static/img/logo/ford-foundation-logo-w.png",
+      "/static/img/logo/wikimedia-logo-id.png"
+    ]
+  },
+  "kabata": {
+    "page": "https://pasiar.ternatekota.go.id/",
+    "credit": "PASIAR Kota Ternate",
+    "image": "https://pasiar.ternatekota.go.id/og.webp",
+    "candidates": []
+  }
+}

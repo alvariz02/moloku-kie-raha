@@ -1,0 +1,133 @@
+{
+  "kabata": {
+    "source": "https://infopublik.id/galeri/foto/detail/7592",
+    "error": "HTTP Error 404: Not Found"
+  },
+  "togal": {
+    "source": "https://infopublik.id/galeri/foto/detail/204154",
+    "error": "HTTP Error 404: Not Found"
+  },
+  "bahasa-map": {
+    "source": "https://petabahasa.kemendikdasmen.go.id/provinsi.php?idp=Maluku+Utara",
+    "error": "<urlopen error timed out>"
+  },
+  "papeda": {
+    "source": "https://www.indonesia.travel/id/id/travel-ideas/gastronomy/papeda-ikan-kuah-kuning",
+    "image": "https://www.indonesia.travel/contentassets/efe0d6365db9438892c16c8d55df1cf8/papeda-ikan-kuah-kuning-v2.webp",
+    "candidates": [
+      "https://www.indonesia.travel/asset/icon/ai-chatbot-sparks.svg",
+      "https://www.indonesia.travel/asset/images/maia-salute.webp",
+      "https://www.indonesia.travel/asset/icon/speaker.svg",
+      "https://www.indonesia.travel/asset/icon/stop-icon.svg",
+      "https://www.indonesia.travel/asset/icon/ai-chatbot-sparks.svg",
+      "https://www.indonesia.travel/asset/images/maia-popup.png",
+      "https://www.indonesia.travel/contentassets/d49eb4d947464d91bd9e59de6b67c8be/visit-indonesia-white.png",
+      "https://www.indonesia.travel/contentassets/d49eb4d947464d91bd9e59de6b67c8be/logo-wonderful-putih.png",
+      "https://www.indonesia.travel/contentassets/d49eb4d947464d91bd9e59de6b67c8be/visit-indonesia-black.png",
+      "https://www.indonesia.travel/contentassets/d49eb4d947464d91bd9e59de6b67c8be/logo-wonderful-indonesia-warna.png",
+      "https://www.indonesia.travel/asset/flags/id.png",
+      "https://www.indonesia.travel/asset/flags/au.png",
+      "https://www.indonesia.travel/asset/flags/cn.png",
+      "https://www.indonesia.travel/asset/flags/fr.png",
+      "https://www.indonesia.travel/asset/flags/de.png",
+      "https://www.indonesia.travel/asset/flags/hk.png",
+      "https://www.indonesia.travel/asset/flags/in.png",
+      "https://www.indonesia.travel/asset/flags/id.png"
+    ]
+  },
+  "bagea": {
+    "source": "https://www.indonesia.travel/gb/en/travel-ideas/gastronomy/kue-bagea-sagu",
+    "image": "https://www.indonesia.travel/contentassets/dbbccf2fe66a4d78acde9929b552fbd4/kue-bagea-sagu.jpg",
+    "candidates": [
+      "https://www.indonesia.travel/asset/icon/ai-chatbot-sparks.svg",
+      "https://www.indonesia.travel/asset/images/maia-salute.webp",
+      "https://www.indonesia.travel/asset/icon/speaker.svg",
+      "https://www.indonesia.travel/asset/icon/stop-icon.svg",
+      "https://www.indonesia.travel/asset/icon/ai-chatbot-sparks.svg",
+      "https://www.indonesia.travel/asset/images/maia-popup.png",
+      "https://www.indonesia.travel/contentassets/d49eb4d947464d91bd9e59de6b67c8be/visit-indonesia-white.png",
+      "https://www.indonesia.travel/contentassets/d49eb4d947464d91bd9e59de6b67c8be/logo-wonderful-putih.png",
+      "https://www.indonesia.travel/contentassets/d49eb4d947464d91bd9e59de6b67c8be/visit-indonesia-black.png",
+      "https://www.indonesia.travel/contentassets/d49eb4d947464d91bd9e59de6b67c8be/logo-wonderful-indonesia-warna.png",
+      "https://www.indonesia.travel/asset/flags/au.png",
+      "https://www.indonesia.travel/asset/flags/cn.png",
+      "https://www.indonesia.travel/asset/flags/fr.png",
+      "https://www.indonesia.travel/asset/flags/de.png",
+      "https://www.indonesia.travel/asset/flags/hk.png",
+      "https://www.indonesia.travel/asset/flags/in.png",
+      "https://www.indonesia.travel/asset/flags/id.png",
+      "https://www.indonesia.travel/asset/flags/jp.png"
+    ]
+  },
+  "lapis-tidore": {
+    "source": "https://rri.co.id/ternate/berita-lain/2289519/kue-lapis-tidore-jadi-favorit-lebaran-kini-dilindungi-negara",
+    "error": "<urlopen error _ssl.c:983: The handshake operation timed out>"
+  },
+  "legu-gam": {
+    "source": "https://www.indonesia.travel/id/id/news-update/legu-gam-festival-2016-on-ternate",
+    "image": "https://www.indonesia.travel/globalassets/logo-wi-bg.png",
+    "candidates": [
+      "https://www.indonesia.travel/asset/icon/ai-chatbot-sparks.svg",
+      "https://www.indonesia.travel/asset/images/maia-salute.webp",
+      "https://www.indonesia.travel/asset/icon/speaker.svg",
+      "https://www.indonesia.travel/asset/icon/stop-icon.svg",
+      "https://www.indonesia.travel/asset/icon/ai-chatbot-sparks.svg",
+      "https://www.indonesia.travel/asset/images/maia-popup.png",
+      "https://www.indonesia.travel/contentassets/d49eb4d947464d91bd9e59de6b67c8be/visit-indonesia-white.png",
+      "https://www.indonesia.travel/contentassets/d49eb4d947464d91bd9e59de6b67c8be/logo-wonderful-putih.png",
+      "https://www.indonesia.travel/contentassets/d49eb4d947464d91bd9e59de6b67c8be/visit-indonesia-black.png",
+      "https://www.indonesia.travel/contentassets/d49eb4d947464d91bd9e59de6b67c8be/logo-wonderful-indonesia-warna.png",
+      "https://www.indonesia.travel/asset/flags/id.png",
+      "https://www.indonesia.travel/asset/flags/au.png",
+      "https://www.indonesia.travel/asset/flags/cn.png",
+      "https://www.indonesia.travel/asset/flags/fr.png",
+      "https://www.indonesia.travel/asset/flags/de.png",
+      "https://www.indonesia.travel/asset/flags/hk.png",
+      "https://www.indonesia.travel/asset/flags/in.png",
+      "https://www.indonesia.travel/asset/flags/id.png"
+    ]
+  },
+  "manteren-lamo": {
+    "source": "https://www.indonesia.travel/id/id/travel-ideas/culture/manteren-lamo-maluku",
+    "image": "https://www.indonesia.travel/contentassets/36a067a32e684d99950ebdd46b83ed28/manteren-lamo-maluku-new.jpg",
+    "candidates": [
+      "https://www.indonesia.travel/asset/icon/ai-chatbot-sparks.svg",
+      "https://www.indonesia.travel/asset/images/maia-salute.webp",
+      "https://www.indonesia.travel/asset/icon/speaker.svg",
+      "https://www.indonesia.travel/asset/icon/stop-icon.svg",
+      "https://www.indonesia.travel/asset/icon/ai-chatbot-sparks.svg",
+      "https://www.indonesia.travel/asset/images/maia-popup.png",
+      "https://www.indonesia.travel/contentassets/d49eb4d947464d91bd9e59de6b67c8be/visit-indonesia-white.png",
+      "https://www.indonesia.travel/contentassets/d49eb4d947464d91bd9e59de6b67c8be/logo-wonderful-putih.png",
+      "https://www.indonesia.travel/contentassets/d49eb4d947464d91bd9e59de6b67c8be/visit-indonesia-black.png",
+      "https://www.indonesia.travel/contentassets/d49eb4d947464d91bd9e59de6b67c8be/logo-wonderful-indonesia-warna.png",
+      "https://www.indonesia.travel/asset/flags/id.png",
+      "https://www.indonesia.travel/asset/flags/au.png",
+      "https://www.indonesia.travel/asset/flags/cn.png",
+      "https://www.indonesia.travel/asset/flags/fr.png",
+      "https://www.indonesia.travel/asset/flags/de.png",
+      "https://www.indonesia.travel/asset/flags/hk.png",
+      "https://www.indonesia.travel/asset/flags/in.png",
+      "https://www.indonesia.travel/asset/flags/id.png"
+    ]
+  },
+  "sagu-kasbi": {
+    "source": "https://malut.brmp.pertanian.go.id/berita/mengulik-peluang-sni-sagu-kasbi",
+    "error": "The read operation timed out"
+  },
+  "halua-kenari": {
+    "source": "https://saloi.id/2025/07/12/menengok-sentra-usaha-halua-kenari-desa-suma-halmahera-selatan/",
+    "image": "https://saloi.id/wp-content/uploads/2025/07/haluakenari.jpg",
+    "candidates": [
+      "https://saloi.id/wp-content/uploads/2025/04/cropped-Pub_Medsos-1.png",
+      "https://saloi.id/wp-content/uploads/2026/04/high-light.gif",
+      "https://saloi.id/wp-content/uploads/2025/07/haluakenari.jpg",
+      "https://secure.gravatar.com/avatar/3ea767d9d583c74a66d0f7a524800c32ad54d9d8b1f224f880496d52bd0b8d89?s=30&#038;r=g",
+      "https://pbs.twimg.com/media/GvoPv1JXYAAOvKP?format=png&name=900x900",
+      "https://secure.gravatar.com/avatar/3ea767d9d583c74a66d0f7a524800c32ad54d9d8b1f224f880496d52bd0b8d89?s=75&#038;r=g",
+      "https://landings-cdn.adsterratech.com/referralBanners/gif/720x90_adsterra_reff.gif",
+      "https://saloi.id/wp-content/uploads/2026/04/Desain-Elegan-Banyak-Varian.gif",
+      "https://pbs.twimg.com/media/GoF7DoxboAE2mCE?format=jpg&name=large"
+    ]
+  }
+}
